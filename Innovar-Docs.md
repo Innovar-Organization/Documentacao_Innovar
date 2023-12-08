@@ -16,4 +16,4 @@ Links do projeto:
 - [Documentação (esse documento)](https://github.com/WedleySilva/Innovar-Docs)
 - Backend: [Repositório](https://github.com/Innovar-Organization/Back-end_Django_Innovar) e [Publicação](https://backendinnovar-dev-sbpq.3.us-1.fl0.io/)
 - Frontend-Mobile: [Repositório](https://github.com/Innovar-Organization/Front-end_ReactNative_Innovar) e [Publicação]()
-- Frontend-web: [Repositório](https://github.com/Innovar-Organization/Front-end_Web_Innovar) e [Publicação](https://innovar-web.vercel.app/)
+- Frontend-Web: [Repositório](https://github.com/Innovar-Organization/Front-end_Web_Innovar) e [Publicação](https://innovar-web.vercel.app/)
